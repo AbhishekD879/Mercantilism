@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Mercantilism/static/css/main.3517354d.chunk.css",
+    "main.js": "/Mercantilism/static/js/main.a08792e5.chunk.js",
+    "main.js.map": "/Mercantilism/static/js/main.a08792e5.chunk.js.map",
+    "runtime-main.js": "/Mercantilism/static/js/runtime-main.71d91f18.js",
+    "runtime-main.js.map": "/Mercantilism/static/js/runtime-main.71d91f18.js.map",
+    "static/js/2.7b5a907e.chunk.js": "/Mercantilism/static/js/2.7b5a907e.chunk.js",
+    "static/js/2.7b5a907e.chunk.js.map": "/Mercantilism/static/js/2.7b5a907e.chunk.js.map",
+    "index.html": "/Mercantilism/index.html",
+    "static/css/main.3517354d.chunk.css.map": "/Mercantilism/static/css/main.3517354d.chunk.css.map",
+    "static/js/2.7b5a907e.chunk.js.LICENSE.txt": "/Mercantilism/static/js/2.7b5a907e.chunk.js.LICENSE.txt",
+    "static/media/Himage.0c91127e.png": "/Mercantilism/static/media/Himage.0c91127e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71d91f18.js",
+    "static/js/2.7b5a907e.chunk.js",
+    "static/css/main.3517354d.chunk.css",
+    "static/js/main.a08792e5.chunk.js"
+  ]
+}
